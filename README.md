@@ -9,3 +9,4 @@ docker-compose run backend djangoadmin startproject project_name
 Сейчас скрипт не работает, при сборке Docker не может найти package.json.
 
 supvlmail@gmail.com
+Telegram: @growlingviking
